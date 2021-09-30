@@ -1,5 +1,5 @@
 function setup(){
-  canvas=createCanavas(400,400);
+  canvas=createCanvas(400,400);
   canvas.center();
   video=createCapture(VIDEO);
   video.hide();
